@@ -1,4 +1,4 @@
-This is a fork of the main Discourse github, just in case we need it for anything.  Currently it is not used in production.
+This is a fork of the main Discourse github for hmsrc, just in case we need it for anything.  Currently it is not used in production.
 
 <a href="https://www.discourse.org/"><img src=
 "https://user-images.githubusercontent.com/1681963/52239617-e2683480-289c-11e9-922b-5da55472e5b4.png"
